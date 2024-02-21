@@ -1,0 +1,83 @@
+[
+  {
+    "_id": "65d60cc6058262b49354ff28",
+    "index": 0,
+    "guid": "c5a6fac6-ab16-4405-ba43-f8d238fa0a39",
+    "isActive": true,
+    "age": 29,
+    "name": "Elinor Mcfadden",
+    "gender": "female",
+    "company": "QUILM",
+    "email": "elinormcfadden@quilm.com",
+    "phone": "+1 (990) 486-2100",
+    "tags": [
+      "aliqua",
+      "tempor",
+      "minim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Mcmillan Mcfarland"
+      },
+      {
+        "id": 1,
+        "name": "Natalia Fisher"
+      }
+    ]
+  },
+  {
+    "_id": "65d60cc6d15c67a14d091265",
+    "index": 1,
+    "guid": "c8f23916-17d8-45a8-a575-755ca7b3a6e7",
+    "isActive": false,
+    "age": 24,
+    "name": "Savannah Irwin",
+    "gender": "female",
+    "company": "PORTICO",
+    "email": "savannahirwin@portico.com",
+    "phone": "+1 (971) 484-2241",
+    "tags": [
+      "nisi",
+      "anim",
+      "adipisicing"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Simpson Riggs"
+      },
+      {
+        "id": 1,
+        "name": "Ramona Avila"
+      }
+    ]
+  },
+  {
+    "_id": "65d60cc656108c5a17c8ee6c",
+    "index": 2,
+    "guid": "1809bb59-3db6-4bd8-b535-af6e50424d77",
+    "isActive": false,
+    "age": 32,
+    "name": "Mandy Kerr",
+    "gender": "female",
+    "company": "PEARLESSA",
+    "email": "mandykerr@pearlessa.com",
+    "phone": "+1 (986) 511-3259",
+    "tags": [
+      "elit",
+      "et",
+      "minim"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Melissa Walter"
+      },
+      {
+        "id": 1,
+        "name": "Henrietta Langley"
+      }
+    ]
+  }
+]
